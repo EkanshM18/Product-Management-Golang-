@@ -1,4 +1,5 @@
-Product Management System
+
+Product Mangement System: 
 This is a Product Management System built using Go, Gin framework, MySQL, and Redis. It provides CRUD (Create, Read, Update, Delete) functionality for managing products and includes caching for improved performance.
 
 Features
